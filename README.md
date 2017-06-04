@@ -38,3 +38,5 @@ I am learning how to use git at Lambda School's [online code bootcamp](https://l
 That's it. Good luck!
 
 *For extra credit, practice this a few times with a few different repositories.*
+
+Livestream: https://www.youtube.com/watch?v=dTQDhVChVzg
